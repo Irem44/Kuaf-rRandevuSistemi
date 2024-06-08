@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irems\\Desktop\\KRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA498EE-E16D-416D-BD0E-1D2D87C25396}|KRS\\KRS.csproj|c:\\users\\irems\\desktop\\krs\\krs\\dogaltarifler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BA498EE-E16D-416D-BD0E-1D2D87C25396}|KRS\\KRS.csproj|solutionrelative:krs\\dogaltarifler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA498EE-E16D-416D-BD0E-1D2D87C25396}|KRS\\KRS.csproj|c:\\users\\irems\\desktop\\krs\\krs\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BA498EE-E16D-416D-BD0E-1D2D87C25396}|KRS\\KRS.csproj|solutionrelative:krs\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA498EE-E16D-416D-BD0E-1D2D87C25396}|KRS\\KRS.csproj|c:\\users\\irems\\desktop\\krs\\krs\\hakkimizda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BA498EE-E16D-416D-BD0E-1D2D87C25396}|KRS\\KRS.csproj|solutionrelative:krs\\hakkimizda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hakkimizda.aspx",
+              "DocumentMoniker": "C:\\Users\\irems\\Desktop\\KRS\\KRS\\hakkimizda.aspx",
+              "RelativeDocumentMoniker": "KRS\\hakkimizda.aspx",
+              "ToolTip": "C:\\Users\\irems\\Desktop\\KRS\\KRS\\hakkimizda.aspx",
+              "RelativeToolTip": "KRS\\hakkimizda.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T16:43:26.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dogalTarifler.aspx",
+              "DocumentMoniker": "C:\\Users\\irems\\Desktop\\KRS\\KRS\\dogalTarifler.aspx",
+              "RelativeDocumentMoniker": "KRS\\dogalTarifler.aspx",
+              "ToolTip": "C:\\Users\\irems\\Desktop\\KRS\\KRS\\dogalTarifler.aspx",
+              "RelativeToolTip": "KRS\\dogalTarifler.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T16:43:03.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "anaSayfa.aspx",
+              "DocumentMoniker": "C:\\Users\\irems\\Desktop\\KRS\\KRS\\anaSayfa.aspx",
+              "RelativeDocumentMoniker": "KRS\\anaSayfa.aspx",
+              "ToolTip": "C:\\Users\\irems\\Desktop\\KRS\\KRS\\anaSayfa.aspx",
+              "RelativeToolTip": "KRS\\anaSayfa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T16:30:34.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
